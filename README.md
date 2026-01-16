@@ -32,10 +32,13 @@ Hello! I am a passionate Cybersecurity student at University Malaya. My focus is
 * **Outcome: Created a functional tool that rates password strength effectively.
 
 ## Learning Journey
-[To be updated]
+Throughout the WQE7001 course, I have moved from basic IT knowledge to understanding complex security architectures.
+* **Key Learnings: I have mastered the basics of cryptography and how encryption protocols secure data.
+* **Challenges: Initially, understanding the intricacies of buffer overflow attacks was difficult.
+* **Improvement Plan: I am currently practicing on "TryHackMe" platforms to improve my practical exploitation skills and reviewing memory management concepts.
 
 ## Career Objective
-[To be updated]
+My goal is to become a Penetration Tester or SOC Analyst. I aim to work in a dynamic environment where I can utilize my analytical skills to detect threats and secure organizational infrastructure.
 
 ## Contact Information
 [To be updated]
