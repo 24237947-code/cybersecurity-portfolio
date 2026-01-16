@@ -1,10 +1,13 @@
 # Cybersecurity Professional Portfolio
 
 ## About Me
-[To be updated]
+Hello! I am a passionate Cybersecurity student at University Malaya. My focus is on cyber security. I am dedicated to protecting digital assets and continuously learning about the evolving threat landscape.
 
 ## Technical Skills
-[To be updated]
+* **Security Tools:** Nmap, Wireshark, Metasploit, Burp Suite.
+* **Operating Systems:** Linux (Kali, Ubuntu), Windows Server.
+* **Programming:** Python (Basic scripting), Bash.
+* **Networking:** TCP/IP protocols, Subnetting, DNS, Firewalls.
 
 ## Certifications and Training
 [To be updated]
