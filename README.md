@@ -41,4 +41,6 @@ Throughout the WQE7001 course, I have moved from basic IT knowledge to understan
 My goal is to become a Penetration Tester or SOC Analyst. I aim to work in a dynamic environment where I can utilize my analytical skills to detect threats and secure organizational infrastructure.
 
 ## Contact Information
-[To be updated]
+* **LinkedIn: www.linkedin.com/in/维倜-周-1064643a6
+* **GitHub: https://github.com/24237947-code
+* **Email: 24237947@siswa.um.edu.my
